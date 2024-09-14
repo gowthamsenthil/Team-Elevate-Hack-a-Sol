@@ -1,2 +1,5 @@
 # Team-Elevate-Hack-a-Sol
-AIML Track - Sport Analytics
+AIML Track - Players Performance Prediction
+
+
+Team Elevate
