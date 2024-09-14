@@ -5,8 +5,8 @@
 - **Team Name**: Elevate
 
 - **Team Members**:
-  - **[Member 1 Name]**: Chethan Patel
-  - **[Member 2 Name]**: Gowtham S
+  - **Chethan Patel**
+  - **Gowtham S**
 
 ## Overview
 
