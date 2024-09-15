@@ -16,7 +16,7 @@ This project focuses on analyzing and predicting the performance of a cricket pl
 
 ### IPL Ball-to-Ball Information (2008-2024)
 
-[Download Dataset](https://drive.google.com/drive/folders/1_Mb-XrfI-iHZseP-oJ2ngpXmkKKgQ9ur?usp=sharing)
+[Download Dataset and pickle files](https://drive.google.com/drive/folders/1_Mb-XrfI-iHZseP-oJ2ngpXmkKKgQ9ur?usp=sharing)
 
 
 The dataset consists of detailed ball-to-ball data from the IPL spanning from the 2008 season to 2024. This comprehensive dataset includes the following fields:
@@ -82,4 +82,6 @@ The project utilizes a MultiOutputRegressor with RandomForestRegressor to predic
 ### Application
 
 The predictive model forecasts a player's performance in upcoming matches by analyzing trends from previous games. This helps teams and analysts make informed decisions and optimize player performance based on historical insights.
+
+#### Refer the setup.txt file to install and run the dashboard
 
