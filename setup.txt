@@ -1,3 +1,8 @@
+# First download all the data files required for the project to run.
+
+#Download Setup Instructions: 
+Link: https://drive.google.com/drive/folders/1_Mb-XrfI-iHZseP-oJ2ngpXmkKKgQ9ur?usp=sharing
+
 # Clone the repository
 git clone https://github.com/gowthamsenthil/Team-Elevate-Hack-a-Sol.git
 cd your-repository-folder
